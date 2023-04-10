@@ -13,8 +13,7 @@
   },
   "dependencies": {
     "pocketbase": "^0.13.1",
-    "vue": "^3.2.47",
-    "vue-router": "^4.1.6"
+    "vue": "^3.2.47"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
