@@ -1,6 +1,6 @@
 # test-v-bind-suspense
 
-Give error:
+This branch **don't give the error** !
 
 ```
 Uncaught (in promise) DOMException: Failed to execute 'setAttribute' on 'Element': '$load' is not a valid attribute name.
